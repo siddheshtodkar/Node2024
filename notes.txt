@@ -1,0 +1,15 @@
+browser => node
+window => global
+document => process
+
+to run file in node command: node filename
+
+two types of js:
+    1. commonjs (default) 
+    2. ES modules
+
+if facing pickAlgorithm error while installing do cache clear with 'npm cache clear --force'
+
+env file mention command: '--env-file=.env'
+
+for commonjs __filename and __dirname returns respective values directly 
